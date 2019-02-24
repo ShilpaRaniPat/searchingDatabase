@@ -1,0 +1,211 @@
+
+
+{
+"topic":"data binding",
+"questions":[
+{
+"question": "what is databinding?",
+"description":"common question about data binding",
+"upvotes":1,
+"timestamp":456789,
+"downvote":0,
+"answers":[
+	  {
+	   "answer":"Angular is a platform that makes it easy to build applications with the web. Angular combines declarative templates, dependency injection, end to end tooling, and integrated best practices to solve development challenges. Angular empowers developers to build applications that live on the web, mobile, or the desktop.Data binding is a process that allows an Internet user to manipulate Web page elements using a Web browser. It employs dynamic HTML (hypertext markup language) and does not require complex scripting or programming. Data binding first became available with Microsoft Internet Explorer (MSIE) version 4. It can be used in conjunction with that and all subsequent versions of MSIE to create and view interactive Web sites with a minimum demand on authoring time, subscriber effort, server drive space, and server processing resources.",
+           "accepted":"true",
+	   "comments":[
+		     {
+			"comment":"okay answer",
+			"timestamp":234567,
+			"likes":5,
+			"replies":[
+				 {
+				  "reply":"elaborate more",
+				   "likes":2,
+				   "timestamp":789065,
+                                   "user":{
+                                        "firstname":"hima",
+                                        "emailaddress":"hima@gmail.com",
+                                        "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                                        }
+				 }
+				],
+                        "user":{
+                             "firstname":"zakir",
+                             "emailaddress":"zakir@gmail.com",
+                             "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                             }
+		     }
+		    ],
+	   "upvotes":6,
+	   "views":2,
+	   "timestamp":6789023,
+           "user":{
+                "firstname":"sajal",
+                "emailaddress":"sajal@gmail.com",
+                "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                }
+
+			}
+			],
+
+"comments":[
+	  {
+	   "comment":"helpful",
+	   "timestamp":456789,
+	   "likes":1,
+	   "replies":[
+		    {
+		    "reply":2,
+		    "likes":3,
+		    "timestamp":234567
+		    }
+		   ]
+	  }
+	],
+"user":{
+     "firstname":"Reshma",
+     "emailaddress":"reshma@gmail.com",
+     "imageurl":"https://www.w3schools.com/angular/pic_angular.jpg"
+     }
+},
+
+  
+  {
+"question": "why is databinding used angularJS?",
+"description":"commanly asked question",
+"upvotes":3,
+"timestamp":678905,
+"downvote":2,
+"answers":[
+	  {
+	   "answer":"Data binding is a very useful and powerful feature used in software development technologies. It acts as a bridge between the view and business logic of the application.",
+           "accepted":"true",
+	   "comments":[
+		     {
+			"comment":"okay answer",
+			"timestamp":234567,
+			"likes":5,
+			"replies":[
+				 {
+				  "reply":"elaborate more",
+				   "likes":2,
+				   "timestamp":789065,
+                                   "user":{
+                                        "firstname":"Zakir",
+                                        "emailaddress":"zakir@gmail.com",
+                                        "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                                        }
+				 }
+				],
+                        "user":{
+                             "firstname":"zakir",
+                             "emailaddress":"zakir@gmail.com",
+                             "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                             }
+		     }
+		    ],
+	   "upvotes":6,
+	   "views":2,
+	   "timestamp":6789023,
+           "user":{
+                "firstname":"sajal",
+                "emailaddress":"sajal@gmail.com",
+                "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                }
+
+			}
+			],
+
+"comments":[
+	  {
+	   "comment":"helpful",
+	   "timestamp":456789,
+	   "likes":1,
+	   "replies":[
+		    {
+		    "reply":2,
+		    "likes":3,
+		    "timestamp":234567
+		    }
+		   ]
+	  }
+	],
+"user":{
+     "firstname":"Reshma",
+     "emailaddress":"reshma@gmail.com",
+     "imageurl":"https://www.w3schools.com/angular/pic_angular.jpg"
+     }
+
+},
+ {
+"question": "difference between pipes and databinding",
+"description":"commanly asked question",
+"upvotes":3,
+"timestamp":678905,
+"downvote":2,
+"answers":[
+	  {
+	   "answer":"The ng-bind directive tells AngularJS to replace the content of an HTML element with the value of a given variable, or expression.",
+           "accepted":"true",
+	   "comments":[
+		     {
+			"comment":"okay answer",
+			"timestamp":234567,
+			"likes":5,
+			"replies":[
+				 {
+				  "reply":"elaborate more",
+				   "likes":2,
+				   "timestamp":789065,
+                                   "user":{
+                                        "firstname":"Zakir",
+                                        "emailaddress":"zakir@gmail.com",
+                                        "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                                        }
+				 }
+				],
+                        "user":{
+                             "firstname":"zakir",
+                             "emailaddress":"zakir@gmail.com",
+                             "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                             }
+		     }
+		    ],
+	   "upvotes":6,
+	   "views":2,
+	   "timestamp":6789023,
+           "user":{
+                "firstname":"sajal",
+                "emailaddress":"sajal@gmail.com",
+                "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                }
+
+			}
+			],
+
+"comments":[
+	  {
+	   "comment":"helpful",
+	   "timestamp":456789,
+	   "likes":1,
+	   "replies":[
+		    {
+		    "reply":2,
+		    "likes":3,
+		    "timestamp":234567
+		    }
+		   ]
+	  }
+	],
+"user":{
+     "firstname":"Reshma",
+     "emailaddress":"reshma@gmail.com",
+     "imageurl":"https://www.w3schools.com/angular/pic_angular.jpg"
+     }
+
+}
+
+
+]
+}

@@ -1,0 +1,211 @@
+
+
+{
+"topic":"Java",
+"questions":[
+{
+"question": "Difference between JDK, JRE and JVM",
+"description":"common question about data binding",
+"upvotes":1,
+"timestamp":456789,
+"downvote":0,
+"answers":[
+	  {
+	   "answer":"Differences are many ",
+           "accepted":"true",
+	   "comments":[
+		     {
+			"comment":"okay answer",
+			"timestamp":234567,
+			"likes":5,
+			"replies":[
+				 {
+				  "reply":"elaborate more",
+				   "likes":2,
+				   "timestamp":789065,
+                                   "user":{
+                                        "firstname":"hima",
+                                        "emailaddress":"hima@gmail.com",
+                                        "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                                        }
+				 }
+				],
+                        "user":{
+                             "firstname":"zakir",
+                             "emailaddress":"zakir@gmail.com",
+                             "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                             }
+		     }
+		    ],
+	   "upvotes":6,
+	   "views":2,
+	   "timestamp":6789023,
+           "user":{
+                "firstname":"sajal",
+                "emailaddress":"sajal@gmail.com",
+                "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                }
+
+			}
+			],
+
+"comments":[
+	  {
+	   "comment":"helpful",
+	   "timestamp":456789,
+	   "likes":1,
+	   "replies":[
+		    {
+		    "reply":2,
+		    "likes":3,
+		    "timestamp":234567
+		    }
+		   ]
+	  }
+	],
+"user":{
+     "firstname":"Reshma",
+     "emailaddress":"reshma@gmail.com",
+     "imageurl":"https://www.w3schools.com/angular/pic_angular.jpg"
+     }
+},
+
+  
+  {
+"question": "why is java better?",
+"description":"commanly asked question",
+"upvotes":3,
+"timestamp":678905,
+"downvote":2,
+"answers":[
+	  {
+	   "answer":"Data binding is a very useful and powerful feature used in software development technologies. It acts as a bridge between the view and business logic of the application.",
+           "accepted":"true",
+	   "comments":[
+		     {
+			"comment":"okay answer",
+			"timestamp":234567,
+			"likes":5,
+			"replies":[
+				 {
+				  "reply":"elaborate more",
+				   "likes":2,
+				   "timestamp":789065,
+                                   "user":{
+                                        "firstname":"Zakir",
+                                        "emailaddress":"zakir@gmail.com",
+                                        "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                                        }
+				 }
+				],
+                        "user":{
+                             "firstname":"zakir",
+                             "emailaddress":"zakir@gmail.com",
+                             "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                             }
+		     }
+		    ],
+	   "upvotes":6,
+	   "views":2,
+	   "timestamp":6789023,
+           "user":{
+                "firstname":"sajal",
+                "emailaddress":"sajal@gmail.com",
+                "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                }
+
+			}
+			],
+
+"comments":[
+	  {
+	   "comment":"helpful",
+	   "timestamp":456789,
+	   "likes":1,
+	   "replies":[
+		    {
+		    "reply":2,
+		    "likes":3,
+		    "timestamp":234567
+		    }
+		   ]
+	  }
+	],
+"user":{
+     "firstname":"Reshma",
+     "emailaddress":"reshma@gmail.com",
+     "imageurl":"https://www.w3schools.com/angular/pic_angular.jpg"
+     }
+
+},
+ {
+"question": "advantages of java over other languages",
+"description":"commanly asked question",
+"upvotes":3,
+"timestamp":678905,
+"downvote":2,
+"answers":[
+	  {
+	   "answer":"The ng-bind directive tells AngularJS to replace the content of an HTML element with the value of a given variable, or expression.",
+           "accepted":"true",
+	   "comments":[
+		     {
+			"comment":"okay answer",
+			"timestamp":234567,
+			"likes":5,
+			"replies":[
+				 {
+				  "reply":"elaborate more",
+				   "likes":2,
+				   "timestamp":789065,
+                                   "user":{
+                                        "firstname":"Zakir",
+                                        "emailaddress":"zakir@gmail.com",
+                                        "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                                        }
+				 }
+				],
+                        "user":{
+                             "firstname":"zakir",
+                             "emailaddress":"zakir@gmail.com",
+                             "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                             }
+		     }
+		    ],
+	   "upvotes":6,
+	   "views":2,
+	   "timestamp":6789023,
+           "user":{
+                "firstname":"sajal",
+                "emailaddress":"sajal@gmail.com",
+                "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                }
+
+			}
+			],
+
+"comments":[
+	  {
+	   "comment":"helpful",
+	   "timestamp":456789,
+	   "likes":1,
+	   "replies":[
+		    {
+		    "reply":2,
+		    "likes":3,
+		    "timestamp":234567
+		    }
+		   ]
+	  }
+	],
+"user":{
+     "firstname":"Reshma",
+     "emailaddress":"reshma@gmail.com",
+     "imageurl":"https://www.w3schools.com/angular/pic_angular.jpg"
+     }
+
+}
+
+
+]
+}
